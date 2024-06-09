@@ -2,13 +2,9 @@
 
 Avian is a website where users can search, book and/or cancel flight tickets.
 
-https://user-images.githubusercontent.com/78139798/123645171-b8d04f00-d843-11eb-8119-1d20533a5b05.mp4
 
-<br>
+file:///C:/Users/Hrishi/Downloads/air.mp4
 
-## Live Demo
-
-To see the project in action, go to [http://avian-official.herokuapp.com/](http://avian-official.herokuapp.com/)
 
 <br>
 
