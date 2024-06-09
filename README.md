@@ -73,7 +73,6 @@ npm start
 
 * [ejs](http://ejs.co/)
 * [bootstrap](https://getbootstrap.com/)
-* [jQuery](https://jquery.com/)
 
 ### Back-end
 
@@ -81,8 +80,6 @@ npm start
 * [express](https://expressjs.com/)
 * [mongoDB](https://www.mongodb.com/)
 * [mongoose](http://mongoosejs.com/)
-* [async](http://caolan.github.io/async/)
-* [helmet](https://helmetjs.github.io/)
 * [passport](http://www.passportjs.org/)
 * [express-session](https://github.com/expressjs/session#express-session)
 * [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
@@ -90,5 +87,4 @@ npm start
 ### Platforms
 
 * [git](https://git-scm.com/)
-* [heroku](https://www.heroku.com/)
 * [github](https://github.com/)
