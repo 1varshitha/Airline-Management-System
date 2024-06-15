@@ -1,6 +1,6 @@
-# Avian
+# Airline Management System
 
-Avian is a website where users can search, book and/or cancel flight tickets.
+This is a website where users can search, book and/or cancel flight tickets.
 
 
 
@@ -21,7 +21,7 @@ Once you have Node.js and MongoDB installed on your computer,
 
 #### Clone or download this repository.
 ```sh
-git clone https://github.com/akshat-rawat/Avian.git
+git clone https://github.com/1varshitha/Airline-Management-System.git
 ```
 
 #### Change the folder and Install dependencies.
